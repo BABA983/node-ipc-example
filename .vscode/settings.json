@@ -1,0 +1,32 @@
+{
+	"editor.insertSpaces": false,
+	"files.trimTrailingWhitespace": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"npm.exclude": "**/extensions/**",
+	"emmet.excludeLanguages": [],
+	"typescript.preferences.importModuleSpecifier": "relative",
+	"typescript.preferences.quoteStyle": "single",
+	"git.ignoreLimitWarning": true,
+	"git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+	"git.branchRandomName.enable": true,
+	"git.pullBeforeCheckout": true,
+	"git.mergeEditor": true,
+	"files.insertFinalNewline": true,
+	"[plaintext]": {
+		"files.insertFinalNewline": false
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+		"editor.formatOnSave": true
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+		"editor.formatOnSave": true
+	},
+	"javascript.format.semicolons": "insert",
+	"typescript.tsc.autoDetect": "off",
+	"typescript.format.semicolons": "insert",
+	"application.experimental.rendererProfiling": true,
+	"css.format.spaceAroundSelectorSeparator": true,
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+}
