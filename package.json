@@ -1,0 +1,29 @@
+{
+  "name": "ipc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BABA983/node-ipc-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BABA983/node-ipc-example/issues"
+  },
+  "homepage": "https://github.com/BABA983/node-ipc-example#readme",
+  "devDependencies": {
+    "@types/node": "20.x",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2",
+    "vitest": "^2.1.1"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
